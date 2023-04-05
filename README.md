@@ -63,6 +63,6 @@ score_matrix_vectorized, max_score_vectorized, max_pos_vectorized = smith_waterm
 ```
 
 ## Comparison
-We provide a performance comparison in the "lab.ipynb" python notebook. Here are the results comparing the flavors:
+We provide a performance comparison in the "lab.ipynb" python notebook. Results comparing the flavors:
 ![plot](./perf-comparison.png)
 
